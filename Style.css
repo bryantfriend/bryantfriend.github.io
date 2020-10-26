@@ -46,6 +46,15 @@ body {
     width: 300px;
   }
 
+  li a{
+
+    color: #8c6b48;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
   .menu {
     background-color: #ffffff;
     overflow: hidden;
